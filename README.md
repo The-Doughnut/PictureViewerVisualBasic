@@ -7,5 +7,8 @@ It will play .wav audio files during your image viewing for maximum entertainmen
 # Can do "Open with", or use as main Viewer
 Perfect if you somehow got rid of your UWP image viewer (it sucks anyways).
 
+# How to run
+Download the zip file in the Releases section, unzip and run the executable with all the dll files in the same directory.
+
 # How to compile
 I was lazy so I only uploaded the one vb file containing the code. All you have to do is to design the window yourself and make sure the names of the items are correct. 
